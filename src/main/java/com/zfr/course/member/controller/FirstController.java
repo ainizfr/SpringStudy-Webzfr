@@ -11,7 +11,7 @@ public class FirstController implements Controller {
     @Override
     public ModelAndView handleRequest(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse)throws Exception{
         ModelAndView mav = new ModelAndView();
-        mav.addObject("msg", "这是我的第一个Spring MVC 程序");
+        mav.addObject("msg", "这是我的第一个Spring MVC 程序00");
         mav.setViewName("/application/first.jsp");
         return  mav;
     }
