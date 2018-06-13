@@ -16,6 +16,8 @@
           <element id="library" level="project" name="mysql-connector-java-5.1.41" />
           <element id="library" level="project" name="junit-4.12" />
           <element id="library" level="project" name="spring4.3" />
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="standard-1.1.2" />
         </element>
       </element>
     </root>
